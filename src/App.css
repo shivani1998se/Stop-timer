@@ -1,0 +1,102 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+ 
+}
+ 
+.container {
+  background-color: #FAF9FA;
+  border-radius: 8px;
+  padding: 3rem;
+  margin-top: 6rem;
+  width: 400px;
+}
+ 
+.center_button
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+   
+}
+ 
+.heading_text {
+  font-size: 15px !important;
+  font-weight: 400;
+}
+ 
+.heading_two {
+  padding-top: 5px;
+}
+ 
+.total_amount_card {
+  height: 400px;
+  background-color: #D6FF58;
+  border-radius: 50%;
+}
+ 
+.right {
+  float: right;
+  margin-top: -2rem;
+}
+ 
+.card_text {
+  padding-top: 40px;
+}
+ 
+.total_amount_heading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 60px;
+  font-weight: 800;
+  padding-top: 4rem;
+}
+ 
+.total_amount_para {
+  text-align: center;
+  font-size: 18px !important;
+  padding-top: 5px;
+  color: #4B4B4B;
+}
+ 
+.input_area {
+  margin-top: 40px;
+}
+ 
+.input_field {
+  margin-top: 30px;
+  width: 445px;
+}
+ 
+#outlined-basic {
+  width: 410px;
+}
+ 
+.button_collection {
+  margin-top: 61px;
+  margin-bottom: 1rem;
+}
+ 
+.btn_one {
+  background-color: #F2F2F2 !important;
+  width: 75px;
+  border-radius: 100px !important;
+  height: 75px;
+  color: black !important;
+  font-weight: 600;
+  font-size: 20px !important;
+ 
+}
+ 
+.btn_two {
+  background-color: #F2F2F2 !important;
+  width: 200px;
+  height: 75px;
+  color: black !important;
+  font-size: 20px !important;
+ 
+}
